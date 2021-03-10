@@ -1,0 +1,4 @@
+channels:
+  - bioconda
+dependencies:
+  - nextflow=20.10.0
